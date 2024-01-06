@@ -67,6 +67,7 @@ span.p{
     #button{
         position: relative;
         top:-8px;
+        
     }
 
 span.salaf:hover{
@@ -85,12 +86,13 @@ span.salaf:hover{
 .banner{
 
     display: flex;
-  background-color: rgba(237, 240, 56, 0.627);
+  background-color: black;
 }
 img{
-    height:600px;
+    height:400px;
     width: 300px;
-   
+   margin-top:80px;
+   border-radius: 20%;
     
 }
 .main{
@@ -100,6 +102,7 @@ img{
 }
 .main p{
     margin-bottom: 60px;
+    color:white;
 }
 .main h2{
     color:red;
@@ -107,6 +110,7 @@ img{
     left:5px;
 }
 .main h1{
-    color:green;
-    text-shadow: 1px 1px 4px yellowgreen;
+    color:yellow;
+    text-shadow: 1px 1px 4px rgb(68, 0, 255);
+    font-size: 50px;
 }
