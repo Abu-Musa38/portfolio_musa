@@ -202,3 +202,11 @@ div.h1:hover{
     color:black;
     background-color: rgb(96, 201, 201);
 }
+
+.super-upper {
+    display: flex;
+
+}
+resume-column{
+    text-align: center;
+}
