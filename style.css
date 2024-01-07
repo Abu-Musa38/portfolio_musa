@@ -218,6 +218,9 @@ resume-column{
 }
 .resume{
     text-align: center;
+    margin-bottom: 50px;
+    font-size: 40px;
+    text-shadow: 2px 5px 10px rgb(87, 231, 164);
 }
 .internalh4{
     text-align: center;
@@ -229,10 +232,13 @@ resume-column{
 .upper{
     background-color:rgb(237, 237, 155);
     padding: 30px;
+    box-shadow:5px 5px 50px red ;
+  
 }
 .dupper{
     background-color:lightseagreen;
     padding: 30px;
+    box-shadow:2px 5px 70px aqua;
 }
 #exp{
     text-align: center;
@@ -241,4 +247,51 @@ resume-column{
 }
 hr{
     border: 2px solid gray;
+}
+.btn-download{
+    background-color: rgb(247, 247, 247);
+   text-align: center;
+   margin-top: 45px;
+   border-radius: 5%;
+   box-shadow: 2px 2px 15px rgb(204, 197, 197);
+
+}
+footer{
+    display: flex;
+    background-color: lightskyblue;
+    padding:50px 60px;
+    margin-top: 30px;
+
+}
+.foot{
+    margin: 10px 100px;
+}
+.doot{
+    margin: 10px 100px;
+}
+.social img{
+    position: relative;
+    left: 50px;
+    height:20px;
+    width:20px;
+   
+    margin-top:10px;
+    margin-right:25px;
+}
+.foothead{
+    text-align: center;
+
+}
+.footp{
+    text-align: center;
+}
+
+.contact input,
+ textarea{
+    display: block;
+     margin-bottom: 25px;
+     padding: 18px 35px;
+     color:gray;
+     border:0px;
+     width:100%;
 }
