@@ -210,3 +210,35 @@ div.h1:hover{
 resume-column{
     text-align: center;
 }
+#education{
+    text-align: center;
+    font-size: 25px;
+    background-color: beige;
+    padding: 20px;
+}
+.resume{
+    text-align: center;
+}
+.internalh4{
+    text-align: center;
+   
+}
+.internalh5{
+    text-align: left;
+}
+.upper{
+    background-color:rgb(237, 237, 155);
+    padding: 30px;
+}
+.dupper{
+    background-color:lightseagreen;
+    padding: 30px;
+}
+#exp{
+    text-align: center;
+    background-color: beige;
+    padding: 20px;
+}
+hr{
+    border: 2px solid gray;
+}
